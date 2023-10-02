@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aquamarine;
+}
+
+/*Estilos generales*/
+
+.fuente-clara {color: #eeeeee;
+}
+
+.fuente-oscura {color: #22211f;
+}
+
+.fuente-acento {color: #b59a61;
+}
+
+/*Encabezado*/
+
+header{
+    background-color: rgb(99, 241, 99);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+    padding: 20px;
+    margin: 20px;
+    width: 100%;
+}
+
+/*Centro*/
+
+main{
+    background-color: gold;
+    font-size: 24px;
+    margin: 20px;
+    width: 100%;
+    padding: 20px;
+}
+
+/*Parte final*/
+
+footer{
+    background-color: cornflowerblue;
+    margin: 20px;
+    width: 100%;
+}
